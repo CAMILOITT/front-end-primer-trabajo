@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(../formulario1/9fe04d96a35577ad93af20233e81df67.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+.contenedor {
+  width: 300px;
+  border: 1px solid white;
+  background-color: rgba(0, 0, 0, 0.7);
+
+  padding: 10px;
+  margin: auto auto;
+  margin-top: 10%;
+}
+.contenedor h2 {
+  text-align: center;
+  color: white;
+  margin: 10px 0px;
+}
+.contenedor label {
+  width: 100%;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
+.contenedor input {
+  width: 90%;
+  margin: 10px 0px 10px 2%;
+  padding: 7px;
+  border: none;
+}
+.contenedor #enviar {
+  color: white;
+  background-color: hsl(220, 70%, 60%);
+  width: 100%;
+  margin-left: 0;
+}
+
+.contenedor p {
+  text-align: right;
+  margin-right: 20px;
+}
+.contenedor a {
+  color: white;
+  text-decoration: none;
+}

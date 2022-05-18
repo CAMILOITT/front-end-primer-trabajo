@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(https://imborrable.com/wp-content/uploads/2021/04/fotos-gratis-de-stock-1.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+.contenedor {
+  width: 35%;
+  border: 1px solid white;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  margin: auto auto;
+  margin-top: 10%;
+  color: white;
+}
+.contenedor h3 {
+  text-align: center;
+  margin: 10px 0px;
+  font-size: 20px;
+}
+.contenedor p {
+  text-align: justify;
+}
+.contenedor p span {
+  color: skyblue;
+  font-weight: bold;
+}
+
+.contenedor p a {
+  color: rgb(146, 181, 255);
+  text-align: center;
+}

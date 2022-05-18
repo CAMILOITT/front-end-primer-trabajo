@@ -1,0 +1,23 @@
+* {
+  margin: 10;
+  padding: 0;
+}
+body {
+  background-image: url(./colores-vibrantes_3840x2160_xtrafondos.com.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+label {
+  color: rgb(255, 255, 255);
+  font-style: italic;
+}
+h2 {
+  color: rgb(255, 255, 255);
+  font-style: italic;
+}
+body {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*! me salgo ya cuando termines me mandas el link del nuevo repositorio  para descargar */
